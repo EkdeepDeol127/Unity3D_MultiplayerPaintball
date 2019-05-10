@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Game3110_Network2.unity
+  isLoaded: 1
+  isActive: 1
